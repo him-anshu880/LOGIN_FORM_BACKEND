@@ -12,7 +12,7 @@ app.use(cors())
 
 app.get(`/data`, (req, res) => {
 
-    res.send("hello himanshu");
+    res.send("hello developer");
 })
 app.get('/get_students_data', (req, res) => {
 
